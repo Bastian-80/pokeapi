@@ -1,4 +1,4 @@
- home.js ---
+ // --- home.js ---
 function generarlista(lista) {
   let listapokes = "";
   for (let i = 0; i < lista.length; i++) {
